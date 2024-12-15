@@ -1,11 +1,17 @@
-# llm-watsonx
+<h1 align="center">IBM watsonx Plugin for LLM Overview 🌐✨</h1>
+<p align="center">This plugin integrates IBM watsonx.ai with [`llm`](https://github.com/simonw/llm) to bring advanced AI capabilities to your command-line interface (CLI).</p>
 
-[![PyPI](https://img.shields.io/pypi/v/llm-watsonx.svg)](https://pypi.org/project/llm-watsonx/)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/h0rv/llm-watsonx/blob/main/LICENSE)
+<div align="center">
+    <img src="https://img.shields.io/pypi/v/llm-watsonx.svg" alt="PyPI Version Badge">
+    <img src="https://img.shields.io/badge/license-Apache%202.0-blue.svg" alt="License Badge">
+</div>
 
-An [IBM watsonx.ai](https://www.ibm.com/products/watsonx-ai) plugin for [`llm`](https://github.com/simonw/llm).
+<h2 align="center">Deskripsi</h2>
+<p>IBM watsonx.ai is a powerful AI platform that allows you to leverage cutting-edge machine learning models. By integrating with the `llm` plugin, you can easily interact with these models directly from the command line. 🔥💡</p>
 
-## Installation
+<h3>Langkah-Langkah Penggunaan 🛠️</h3>
+<p>Berikut adalah langkah-langkah untuk menggunakan plugin ini:</p>
+
 
 Install this plugin in the same environment as LLM. From the current directory
 
